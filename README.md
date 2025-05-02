@@ -1,1 +1,1 @@
-# Blog-generation-using-aws
+# AWS-Bedrock
